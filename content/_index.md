@@ -8,8 +8,9 @@ _**Bringing You Latest Updates in The Film Industry**_.
 
 - Movies Home
 - News
+- Quotes
 - Trailers
-- Interviews
+
 
 ![GitHub Logo](https://images.unsplash.com/photo-1546513027-cd32829de838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1276&q=80)
 
@@ -19,4 +20,3 @@ _**Bringing You Latest Updates in The Film Industry**_.
 
 _Harley Quinn_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gPTqe_SPf-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

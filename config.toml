@@ -1,5 +1,5 @@
 title = "Movie World"
-baseURL = "https://example.com"
+baseURL = "https://hungry-ride-a95964.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"

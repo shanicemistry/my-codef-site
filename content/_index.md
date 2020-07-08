@@ -1,7 +1,7 @@
 ---
 title: "Movie Hompage"
 date: 2020-07-07T11:05:59+01:00
-draft: true
+draft: False
 ---
 _**Bringing You Latest Updates in The Film Industry**_.
 

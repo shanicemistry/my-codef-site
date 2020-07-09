@@ -18,24 +18,3 @@ _**Bringing You Latest Updates in The Film Industry**_.
 
 _Harley Quinn_
 
-<!DOCTYPE html>
-<html>
-   <head>
-     <link rel="stylesheet" type="text/css" href="index.css">
-	 <style>
-	 .p1 { 
-	    color:white;
-	 }
-	 </style>
-   </head>
-<body>
-     <div class="header">
-	 </div>
-     <a href="https://dewey.tailorbrands.com/production/brand_version_mockup_image/982/3290739982_9dac98e3-183d-4ca2-bd94-9389e2ee42fe.png?cb=1594293246">
-	 <img src="logo.png" alt="CSGO Howl" style="float:left";>
-	 </a> 	 
-	 <div class="footer">
-	 <p> Copyright &copy; www.csgochance.com </p>
-	 </div>
-   </body>
-</html>

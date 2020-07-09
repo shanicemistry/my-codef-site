@@ -3,7 +3,7 @@ title: "Movie Hompage"
 date: 2020-07-07T11:05:59+01:00
 draft: False
 ---
-<div class="left">_**Bringing You Latest Updates in The Film Industry**_.</div>
+_**Bringing You Latest Updates in The Film Industry**_.
 
 
 

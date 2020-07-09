@@ -2,7 +2,7 @@
 title: "Movie Hompage"
 date: 2020-07-07T11:05:59+01:00
 draft: False
-<link rel= "shortcut icon" type="https://dewey.tailorbrands.com/production/brand_version_mockup_image/982/3290739982_9dac98e3-183d-4ca2-bd94-9389e2ee42fe.png?cb=1594293246" href="yourLogo.jpg"
+link rel= "shortcut icon" type="https://dewey.tailorbrands.com/production/brand_version_mockup_image/982/3290739982_9dac98e3-183d-4ca2-bd94-9389e2ee42fe.png?cb=1594293246" href="yourLogo.jpg"
 ---
 _**Bringing You Latest Updates in The Film Industry**_.
 

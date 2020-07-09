@@ -25,3 +25,8 @@ menu: "main"
     <button type="submit">Send</button>
   </p>
 </form>
+
+collapse {
+    border-collapse: collapse;
+    border-spacing: 0;
+}

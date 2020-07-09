@@ -6,12 +6,6 @@ draft: False
 _**Bringing You Latest Updates in The Film Industry**_.
 
 
-- Movies Home
-- News
-- Quotes
-- Trailers
-
-
 ![GitHub Logo](https://images.unsplash.com/photo-1546513027-cd32829de838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1276&q=80)
 
 
@@ -20,10 +14,3 @@ _**Bringing You Latest Updates in The Film Industry**_.
 
 _Harley Quinn_
 
-p {
-  font-size: 13px;
-}
-
-.black {
-  color: black;
-}

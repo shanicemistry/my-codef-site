@@ -1,26 +1,35 @@
 ---
-title: "Movie world"
-date: 2020-07-07T11:05:59+01:00
-draft: False
+title: "Sign Up"
+date: 2020-07-09T22:20:00+01:00
+draft: false
+menu: "main"
 ---
-<div class="tj f2 lh-copy b i fl">
 
-<div class="outline bg-white tc pv4">Bringing You Latest Updates in The Film Industry.
-</div>
+TML
+<main class="pa4 black-80">
+  <form class="measure center">
+    <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
+      <legend class="f4 fw6 ph0 mh0">Sign In</legend>
+      <div class="mt3">
+        <label class="db fw6 lh-copy f6" for="email-address">Email</label>
+        <input class="pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100" type="email" name="email-address"  id="email-address">
+      </div>
+      <div class="mv3">
+        <label class="db fw6 lh-copy f6" for="password">Password</label>
+        <input class="b pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100" type="password" name="password"  id="password">
+      </div>
+      <label class="pa0 ma0 lh-copy f6 pointer"><input type="checkbox"> Remember me</label>
+    </fieldset>
+    <div class="">
+      <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="submit" value="Sign in">
+    </div>
+    <div class="lh-copy mt3">
+      <a href="#0" class="f6 link dim black db">Sign up</a>
+      <a href="#0" class="f6 link dim black db">Forgot your password?</a>
+    </div>
+  </form>
+</main>
 
-
-
-
-
-<div class="tj pa4">
-  <img src="https://images.unsplash.com/photo-1546513027-cd32829de838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1276&q=80" class="br-100 pa1 ba b--black-10 h10 w10" alt="avatar">
-</div>
-
-
-<p class="fw9 lh-copy lh-title-ns">You don’t have to be crazy to be in love. But it helps.
-    </p>
-
-_Harley Quinn_
 
 <p class="pre measure">
 <div class="outline bg-white fl w-100 pa2"><section class="flex-ns vh-10 items-center">

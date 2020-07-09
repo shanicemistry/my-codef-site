@@ -20,3 +20,10 @@ _**Bringing You Latest Updates in The Film Industry**_.
 
 _Harley Quinn_
 
+p {
+  font-size: 13px;
+}
+
+.black {
+  color: black;
+}

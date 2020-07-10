@@ -2,7 +2,6 @@
 title: "Movie world"
 date: 2020-07-07T11:05:59+01:00
 draft: False
-menu: "main"
 ---
 <div class="tj f2 lh-copy b i fl">
 

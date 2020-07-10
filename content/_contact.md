@@ -1,5 +1,5 @@
 ---
-title: "Sign Up"
+title: "Sign In"
 date: 2020-07-09T22:20:00+01:00
 draft: false
 menu: "main"
@@ -24,7 +24,7 @@ TML
       <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="submit" value="Sign in">
     </div>
     <div class="lh-copy mt3">
-      <a href="#0" class="f6 link dim black db">Sign up</a>
+      <a href="#0" class="f6 link dim black db">Sign In</a>
       <a href="#0" class="f6 link dim black db">Forgot your password?</a>
     </div>
   </form>

@@ -4,8 +4,12 @@ date: 2020-07-09T22:20:00+01:00
 draft: false
 menu: "main"
 ---
+<div class="tj f2 lh-copy b i fl">Membership Sign in to for exclusive gossip, news, and interviews!
+</div>
 
-TML
+
+
+
 <main class="pa4 black-80">
   <form class="measure center">
     <fieldset id="sign_up" class="ba b--transparent ph0 mh0">

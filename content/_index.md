@@ -12,7 +12,6 @@ menu: "main"
 
 
 
-
 <div class="tj pa4">
   <img src="https://images.unsplash.com/photo-1546513027-cd32829de838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1276&q=80" class="br-100 pa1 ba b--black-10 h10 w10" alt="avatar">
 </div>

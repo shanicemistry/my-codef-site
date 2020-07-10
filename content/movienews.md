@@ -6,21 +6,19 @@ menu: "main"
 ---
 
 <section class="mw7 center avenir">
-  <h2 class="baskerville fw1 ph3 ph0-l">News</h2>
+  <h2 class="baskerville fw1 ph3 ph0-l">Latest Updates</h2>
   <article class="bt bb b--black-10">
     <a class="db pv4 ph3 ph0-l no-underline black dim" href="#0">
       <div class="flex flex-column flex-row-ns">
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <img src="http://mrmrs.github.io/photos/cpu.jpg" class="db" alt="Photo of a dimly lit room with a computer interface terminal.">
+          <img src="https://images.unsplash.com/photo-1521800641212-77d98bb90d21?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60.">
         </div>
         <div class="w-100 w-60-ns pl3-ns">
-          <h1 class="f3 fw1 baskerville mt0 lh-title">Tech Giant Invests Huge Money to Build a Computer Out of Science Fiction</h1>
+          <h1 class="f3 fw1 baskerville mt0 lh-title">Johnny Dep "Accidently Headbutts" Amber Heard in new trial!</h1>
           <p class="f6 f5-l lh-copy">
-            The tech giant says it is ready to begin planning a quantum
-            computer, a powerful cpu machine that relies on subatomic particles instead
-            of transistors.
+            Johnny Depp has admitted to "unintentionally" headbutting Amber Heard while she was "thrashing and punching" him at their Los Angeles penthouse.
           </p>
-          <p class="f6 lh-copy mv0">By Robin Darnell</p>
+          <p class="f6 lh-copy mv0">By Shanice Mistry</p>
         </div>
       </div>
     </a>
@@ -29,18 +27,14 @@ menu: "main"
     <a class="db pv4 ph3 ph0-l no-underline black dim" href="#0">
       <div class="flex flex-column flex-row-ns">
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <img src="http://mrmrs.github.io/photos/warehouse.jpg" class="db" alt="Photo of a warehouse with stacked shelves.">
+          <img src="https://images.unsplash.com/photo-1482356432770-3a99f07aba35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80">
         </div>
         <div class="w-100 w-60-ns pl3-ns">
-          <h1 class="f3 fw1 baskerville mt0 lh-title">Warehouse Prices Are Fast on the Rise</h1>
+          <h1 class="f3 fw1 baskerville mt0 lh-title">Thandie Newton's Shocking encounter with Amy Pascal "She Left Charlies Angels" </h1>
           <p class="f6 f5-l lh-copy">
-            A warehouse is a commercial building for storage of goods.
-            Warehouses are used by manufacturers, importers, exporters,
-            wholesalers, transport businesses, customs, etc. They are
-            usually large plain buildings in industrial areas of cities,
-            towns and villages.
+            "Westworld" star Thandie Newton uncovered a few tales about stunning conduct she's experienced from Hollywood officials and creatives through the span of her career in a interview.
           </p>
-          <p class="f6 lh-copy mv0">By Robin Darnell</p>
+          <p class="f6 lh-copy mv0">By Shanice Mistry</p>
         </div>
       </div>
     </a>
@@ -49,17 +43,14 @@ menu: "main"
     <a class="db pv4 ph3 ph0-l no-underline black dim" href="#0">
       <div class="flex flex-column flex-row-ns">
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <img src="http://mrmrs.github.io/photos/whale.jpg" class="db" alt="Photo of a whale's tale coming crashing out of the water.">
+          <img src="https://images.unsplash.com/photo-1588860939994-ce4f7a537f03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80.">
         </div>
         <div class="w-100 w-60-ns pl3-ns">
-          <h1 class="f3 fw1 baskerville mt0 lh-title">Giant Whale Invests Huge Money to Build a Computer Out of Plankton</h1>
+          <h1 class="f3 fw1 baskerville mt0 lh-title">Cinematographer on 'The Batman' says the movie has  Bruce Wayne and Alfred as its centre!</h1>
           <p class="f6 f5-l lh-copy">
-            Whale is the common name for a widely distributed and diverse
-            group of fully aquatic placental marine mammals. They are an
-            informal grouping within the infraorder Cetacea, usually
-            excluding dolphins and porpoises.
+            Fraser, who was likewise a cinematographer on motion pictures like Rogue One, Zero Dark Thirty and as of late The Mandalorian for Disney+, included: "We're having a great time making it. We're going our best. It's a ton of pressure. I don't think Matt takes non-pressure motion pictures.
           </p>
-          <p class="f6 lh-copy mv0">By Robin Darnell</p>
+          <p class="f6 lh-copy mv0">By Shanice Mistryl</p>
         </div>
       </div>
     </a>
